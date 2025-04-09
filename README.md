@@ -1,2 +1,1 @@
-# StudyNotionMain
- An Ed-Tech Platform
+# StudyNotion Edtech Project
